@@ -1,0 +1,14 @@
+c:\users\charlie\documents\visual studio 2010\Projects\EchoTest\EchoLibWebConsole\bin\EchoLibWebConsole.dll
+c:\users\charlie\documents\visual studio 2010\Projects\EchoTest\EchoLibWebConsole\bin\EchoLibWebConsole.pdb
+c:\users\charlie\documents\visual studio 2010\Projects\EchoTest\EchoLibWebConsole\bin\EchoLib.dll
+c:\users\charlie\documents\visual studio 2010\Projects\EchoTest\EchoLibWebConsole\bin\EchoLib.pdb
+c:\users\charlie\documents\visual studio 2010\Projects\EchoTest\EchoLibWebConsole\obj\Debug\ResolveAssemblyReference.cache
+c:\users\charlie\documents\visual studio 2010\Projects\EchoTest\EchoLibWebConsole\obj\Debug\EchoLibWebConsole.dll
+c:\users\charlie\documents\visual studio 2010\Projects\EchoTest\EchoLibWebConsole\obj\Debug\EchoLibWebConsole.pdb
+C:\Users\charlie\Documents\Visual Studio 2010\Projects\EchoLib\EchoLibWebConsole\bin\EchoLibWebConsole.dll
+C:\Users\charlie\Documents\Visual Studio 2010\Projects\EchoLib\EchoLibWebConsole\bin\EchoLibWebConsole.pdb
+C:\Users\charlie\Documents\Visual Studio 2010\Projects\EchoLib\EchoLibWebConsole\bin\EchoLib.dll
+C:\Users\charlie\Documents\Visual Studio 2010\Projects\EchoLib\EchoLibWebConsole\bin\EchoLib.pdb
+C:\Users\charlie\Documents\Visual Studio 2010\Projects\EchoLib\EchoLibWebConsole\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\Visual Studio 2010\Projects\EchoLib\EchoLibWebConsole\obj\Debug\EchoLibWebConsole.dll
+C:\Users\charlie\Documents\Visual Studio 2010\Projects\EchoLib\EchoLibWebConsole\obj\Debug\EchoLibWebConsole.pdb

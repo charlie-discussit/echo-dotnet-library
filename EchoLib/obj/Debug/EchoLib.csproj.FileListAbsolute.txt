@@ -1,0 +1,5 @@
+c:\users\charlie\documents\visual studio 2010\Projects\EchoTest\EchoLib\bin\Debug\EchoLib.dll
+c:\users\charlie\documents\visual studio 2010\Projects\EchoTest\EchoLib\bin\Debug\EchoLib.pdb
+c:\users\charlie\documents\visual studio 2010\Projects\EchoTest\EchoLib\obj\Debug\ResolveAssemblyReference.cache
+c:\users\charlie\documents\visual studio 2010\Projects\EchoTest\EchoLib\obj\Debug\EchoLib.dll
+c:\users\charlie\documents\visual studio 2010\Projects\EchoTest\EchoLib\obj\Debug\EchoLib.pdb
