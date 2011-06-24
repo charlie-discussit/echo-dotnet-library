@@ -1,0 +1,19 @@
+A .Net class library written in C# for interacting with the Echo platform. This library provides a simple interface to the Echo API and handles the OAuth authentication.
+
+It also includes a basic Web Console to the library for testing purposes.
+
+The library is a translation from PHP to C# the original PHP library can be found here:-
+https://github.com/kga245/echo-php-library
+
+Requirements:
+Echo API key
+http://wiki.aboutecho.com/w/page/36155764/Echo-Packages
+
+Usage:
+
+Add a reference to the EchoLib Library in your project.
+
+//Submit Data to Echo Platform
+using DiscussIt.Echo;
+EchoLib el = new EchoLib(consumer_key, consumer_secret); // create object
+string rsp = el.method_submit(your_data); // submit ActivityStreams data to the Echo platform
